@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+<title>login</title>
+</head>
+
+<center>
+<h1>
+    WELCOME TO PANIMALAR MOTORS ???
+</h1>
+<h3>
+    Enter the Details
+</h3>
+<h5>
+    <label for="name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Name" >
+</h5>
+<h5>
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" >
+</h5>
+<h5>
+    <label for="mobilenumber"><b>Mobile Number</b></label>
+    <input type="text" placeholder="Enter Mobile Number " >
+</h5>
+<h5>
+    <label for="type"><b>Type of Disability</b></label>
+    <input type="text" placeholder="Enter Type of disability" >
+</h5>
+<h5>
+    <label for="typeofvhicle"><b>Type of Vehicle</b></label>
+    <input type="text" placeholder="Motorcycle/Tricycle" >
+</h5>
+<h5>
+    <label for="typeof usage"><b>Type of Usage</b></label>
+    <input type="text" placeholder="Heavy/comfort" >
+</h5>
+<h5>
+    <label for="place"><b>Address</b></label>
+    <input type="text" placeholder="Enter Address" >
+</h5>
+<h5>
+    <label for="pincode"><b>Pincode</b></label>
+    <input type="text" placeholder="Enter Picode" >
+</h5>
+
+<button style="background-color: rgb(62, 108, 207);">Click to Proceed</button>
+</center>
