@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Customized vehicles</title>
+    <link rel="icon" href="img/bike.png">
+</head>
+
+<body bgcolor=white>
+    <center>
+    <h1>PANIMALAR MOTORS ???</h1>
+    <p>CUSTOMIZED VEHICLES FOR DIFFERTIALLY ABLED PERSONS. </p>
+    <hr>
+    
+<p>Here we analysed the problems and diffulties that may appear in the differentially abled peoples to drive the vehicles .</p>
+<p>so we have to create customized vehicles for those peoples.</p>
+</center>
+<center>
+<img src="" alt="vehicle image"><br>
+<h2>There is also no need to purchase a new vehicle, our trunk hoists can be fitted into over hundreds of different vehicles!<br>
+</h2>
+<h3
+    ??? Safe and easy to use<br>
+    ???Lifts all types of wheelchairs, scooters and powerchairs<br>
+    ???Both universal and specific kits available for ease of installation<br>
+    ???Transferable between vehicles with a second Fitting Kit<br>
+    ???4-button control for Up/Down and In/Out movement <br>
+    ???3 Year Warranty</h3>
+<h1>For Bookings : follow the link </h1>
+
+<a href="">Click to Continue</a>
+<hr>
+<h3> ANY QUERIES PLEASE CONTACT US BY THESE DETAILS</h3>
+<h4>?? +91 9363357080 | ?? murugan4020@gmail.com</h4>
+<p>?? 9th Street Avenue Road,Trichy-625620</p>
+
+</center>
+
+</body>
+</html>
